@@ -1,3 +1,10 @@
+golang (2:1.4.3-3~bpo8+1) unstable; urgency=medium
+
+  * Disable the tests
+  * Backport for Debian jessie
+
+ -- Ondřej Surý <ondrej@debian.org>  Tue, 17 Nov 2015 13:02:04 +0100
+
 golang (2:1.4.3-3) unstable; urgency=medium
 
   * Fix FTBFS for non-amd64 architectures due to handling of "-race".
