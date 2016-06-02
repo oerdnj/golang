@@ -1,2 +1,3 @@
 # Go always links statically.
 golang-go: statically-linked-binary
+golang-go: apparently-corrupted-elf-binary *

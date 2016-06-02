@@ -2,3 +2,4 @@
 # debug/elf packages.
 golang-src: arch-dependent-file-in-usr-share
 golang-src: unstripped-binary-or-object
+golang-src: binary-from-other-architecture
